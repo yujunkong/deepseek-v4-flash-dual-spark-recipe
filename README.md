@@ -1,3 +1,10 @@
+> # ⚠️ This repository is deprecated
+> **The current, maintained recipe has moved to 👉 https://github.com/tonyd2wild/deepseek-v4-flash-dgx-spark**
+>
+> This older dual-Spark writeup is kept for history only. Please use the new repo above for the working, up-to-date DeepSeek V4 Flash on DGX Spark recipe.
+
+---
+
 # DeepSeek-V4-Flash on a Dual DGX Spark Cluster
 
 Reproducible recipe for serving the **official `deepseek-ai/DeepSeek-V4-Flash`** across **two NVIDIA DGX Spark (GB10)** nodes with tensor parallelism, MTP speculative decoding, fp8 KV cache, and a 200K context window.
